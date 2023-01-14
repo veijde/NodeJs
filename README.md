@@ -25,3 +25,5 @@ offset
 model attributes for filtering
 
 Example: \<host\>/api/brood?limit=3&offset=2&kleur=wit&graan=tarwe
+
+https://github.com/veijde/NodeJs
