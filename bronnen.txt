@@ -1,0 +1,6 @@
+https://mongoosejs.com/docs/
+https://expressjs.com/
+https://www.freecodecamp.org/news/build-a-restful-api-using-node-express-and-mongodb/
+https://www.mongodb.com/docs/drivers/node/current/fundamentals/crud/read-operations/limit/
+https://express-validator.github.io/docs/
+https://github.com/validatorjs/validator.js/blob/master/README.md/
